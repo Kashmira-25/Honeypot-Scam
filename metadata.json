@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SHIELD-AI Honeypot Dashboard",
+  "description": "An autonomous scam honeypot agent simulation that detects, engages, and extracts intelligence from fraudulent entities using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
